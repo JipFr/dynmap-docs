@@ -10,7 +10,7 @@ Returns servers's settings.
 
 See src/configuration.ts
 
-## [GET] /tiles/_markers_/marker_{worldId}.json
+## [GET] /tiles/\_markers\_/marker\_{worldId}.json
 
 Returns makers in a world.
 
